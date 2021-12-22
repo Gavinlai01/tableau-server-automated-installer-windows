@@ -1,15 +1,15 @@
 {
-  "eula" : "[value]",
-  "first_name" : "[value]",
-  "last_name" : "[value]",
-  "title" : "[value]",
-  "company" : "[value]",
-  "department" : "[value]",
-  "industry" : "[value]",
-  "email" : "[value]",
-  "phone" : "[value]",
-  "city" : "[value]",
-  "state" : "[value]",
-  "zip" : "[value]",
-  "country" : "[value]"
-}
+  "zip" : "97403",
+  "country" : "USA",
+  "city" : "Springfield",
+  "last_name" : "Simpson",
+  "industry" : "Energy",
+  "eula" : "yes",
+  "title" : "Safety Inspection Engineer",
+  "phone" : "5558675309",
+  "company" : "Example",
+  "state" : "OR",
+  "department" : "Engineering",
+  "first_name" : "Homer",
+  "email" : "homer@example.com"
+  }
