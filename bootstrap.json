@@ -1,6 +1,6 @@
 {
-    "secretsFile": "file.json",
-    "registrationFile": "file.json",
-    "configFile": "file.json",
-    "installer": "file.exe"
+    "secretsFile": "secrets.json",
+    "registrationFile": "registration.json",
+    "configFile": "config.json",
+    "installer": "tableau-server.exe"
 }
